@@ -1,0 +1,9 @@
+4
+Madrid
+Barcelona
+Roma
+Londres
+0 30 120 0
+50 0 70 50
+140 60 0 30
+25 100 80 0

@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.out
+*.obj
+a.out
+mpairlines
+mochila
+Thumbs.db
+.DS_Store
