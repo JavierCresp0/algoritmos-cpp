@@ -8,13 +8,13 @@ Conjunto de implementaciones en **C++** de algoritmos clásicos vistos en la asi
 |---------|---------------------|-------------|
 | `01-MPAirlines-Dijkstra/` | **Dijkstra** sobre grafo ponderado | Cálculo de la ruta de vuelo más barata entre ciudades |
 | `02-Mochila-Backtracking/` | **Mochila 0/1** con backtracking | Problema clásico de optimización combinatoria con poda |
-| `Ejercicios/p2.cpp` | Ordenación por **inserción** | Implementación y medición de tiempos |
-| `Ejercicios/p3.cpp` | **Potencia**: recursiva vs iterativa | Comparativa de enfoques |
-| `Ejercicios/p4.cpp` | **Potencia rápida** (divide y vencerás) | Optimización del cálculo de aⁿ |
-| `Ejercicios/p5.cpp` | **Merge sort** | Ordenación por mezcla (divide y vencerás) |
-| `Ejercicios/p6_act2.cpp` | Algoritmo **voraz** (scheduling) | Minimización del tiempo medio de espera |
-| `Ejercicios/p6_act3.cpp` | Variante del voraz anterior | Lectura desde fichero |
-| `Ejercicios/p7.cpp` | Ejercicio voraz / divide y vencerás | Lectura desde fichero |
+| `Ejercicios/ordenacion_insercion.cpp` | Ordenación por **inserción** | Implementación y medición de tiempos (mejor, peor y caso medio) |
+| `Ejercicios/potencia_recursiva_vs_iterativa.cpp` | **Potencia**: recursiva vs iterativa | Comparativa de enfoques con traza |
+| `Ejercicios/potencia_divide_venceras.cpp` | **Potencia rápida** (divide y vencerás) | Optimización del cálculo de aⁿ |
+| `Ejercicios/merge_sort.cpp` | **Merge sort** | Ordenación por mezcla (divide y vencerás) |
+| `Ejercicios/voraz_scheduling.cpp` | Algoritmo **voraz** (scheduling) | Minimización del tiempo medio de espera |
+| `Ejercicios/voraz_scheduling_fichero.cpp` | Variante del voraz anterior | Lectura de los tiempos desde fichero |
+| `Ejercicios/mochila_programacion_dinamica.cpp` | **Mochila 0/1** con programación dinámica | Tabla de subproblemas y reconstrucción de la solución |
 
 ## ⭐ Proyectos destacados
 
